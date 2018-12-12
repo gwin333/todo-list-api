@@ -1,7 +1,6 @@
 {
   "name": "todo-list-api",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -10,7 +9,16 @@
   "author": "Adam Szaruga",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4"
-  }
+    "body-parser": "1.18.3",
+    "express": "4.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gwin333/todo-list-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gwin333/todo-list-api/issues"
+  },
+  "homepage": "https://github.com/gwin333/todo-list-api#readme",
+  "description": ""
 }
